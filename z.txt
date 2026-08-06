@@ -1,0 +1,1150 @@
+
+<!doctype html>
+<html amp lang="id">
+<head>
+    <!-- Default Meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta name="robots" content="index, follow"/>
+    <!-- Script AMP -->
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <script async custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
+    <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <script async custom-element="amp-selector" src="https://cdn.ampproject.org/v0/amp-selector-0.1.js"></script>
+    <script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
+    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+    <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+    <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+    <meta name="amp-script-src" content="sha384-nR_rlxe856SaDU1aFtRLp6NHFEHRLcGD6gh93y5zc42E4LM6hDWehhSJDVAxOlzP">
+    <!-- Default -->
+        <title>KAGE303 : Situs Slot Gacor Hari Ini Toto Online Terbaru Gampang Scatter Maxwin </title>
+    <meta name="description" content="KAGE303 hadir sebagai situs slot gacor hari ini dengan permainan slot online terbaru dan toto terpercaya. Tampilan ringan proses cepat serta peluang scatter dan maxwin yang selalu jadi alasan banyak pemain kembali setiap hari.">
+    <link href="https://mobilbydjakarta.id/" rel="canonical" itemprop="mainEntityOfPage"/>
+    <link href="https://mobilbydjakarta.id/" rel="dns-prefetch preconnect">
+    <link href="/assets/icon-kage303.ico" rel="shortcut icon" type="image/x-icon" />
+    <!-- Meta OG -->
+    <meta property="og:title" content="KAGE303 : Situs Slot Gacor Hari Ini Toto Online Terbaru Gampang Scatter Maxwin ">
+    <meta property="og:description" content="KAGE303 hadir sebagai situs slot gacor hari ini dengan permainan slot online terbaru dan toto terpercaya. Tampilan ringan proses cepat serta peluang scatter dan maxwin yang selalu jadi alasan banyak pemain kembali setiap hari.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://mobilbydjakarta.id/">
+    <meta property="og:site_name" content="KAGE303">
+    <meta property="og:locale" content="id_ID">
+    <!-- Geo Settings -->
+    <meta name="geo.country" content="ID"/>
+    <meta name="geo.region" content="ID">
+    <meta name="geo.placename" content="Indonesia"/>
+    <meta name="language" content="ID"/>
+    <meta name="tgn.nation" content="Indonesia"/>
+    <!-- Additional Settings -->
+    <meta name="author" content="KAGE303">
+    <meta name="categories" content="website">
+    <meta name="copyright" content="KAGE303" />
+    <meta name="distribution" content="global"/>
+    <meta name="publisher" content="KAGE303"/>
+    <meta name="rating" content="general"/>
+    <meta name="theme-color" content="DarkGold">
+    <!-- Assets -->
+    <link rel="preload" href="/assets/fonts/glyphicons-halflings-regular.woff" as="font" type="font/woff" crossorigin>
+    <link rel="preload" href="/assets/fonts/Lato-Regular.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/lato-bold.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/Open24DisplaySt.woff2" as="font" type="font/woff2" crossorigin>
+    <!-- Script Schemas -->
+    <script type="application/ld+json">
+        {"@context": "http://schema.org",
+            "@type": "Game",
+            "name": "KAGE303",
+            "author": {
+                "@type": "Person",
+                "name": "KAGE303" },
+            "headline": "KAGE303 : Situs Slot Gacor Hari Ini Toto Online Terbaru Gampang Scatter Maxwin ",
+            "description": "KAGE303 hadir sebagai situs slot gacor hari ini dengan permainan slot online terbaru dan toto terpercaya. Tampilan ringan proses cepat serta peluang scatter dan maxwin yang selalu jadi alasan banyak pemain kembali setiap hari.",
+            "keywords": ["KAGE303, dewa slot, slot777, link slot gacor."],
+            "image": "/assets/logo-kage303.png",
+            "url": "https://mobilbydjakarta.id/",
+            "publisher": {
+                "@type": "Organization",
+                "name": "KAGE303" },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "99",
+                "bestRating": "100",
+                "worstRating": "0",
+                "ratingCount": "88888" },
+            "inLanguage": "id-ID"}
+    </script>
+    
+    <!-- Styles -->
+    <style amp-boilerplate>
+        body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    </style>
+    <noscript>
+        <style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style>
+    </noscript>
+    <style amp-custom>html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,details,footer,header,section,summary{display:block}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:none;text-decoration:underline dotted}strong{font-weight:700}h1{font-size:2em;margin:.67em 0}input{color:inherit;font:inherit;margin:0}html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]{-webkit-appearance:textfield;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#39ff14;text-decoration:none}a:focus,a:hover{color:#1ee62a;text-decoration:underline}a:focus{outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-right:-15px;margin-left:-15px}.col-md-12,.col-md-3,.col-md-6,.col-md-9,.col-sm-3,.col-sm-5,.col-sm-7,.col-sm-9{position:relative;min-height:1px;padding-right:15px;padding-left:15px}@media (min-width:768px){.col-sm-3,.col-sm-5,.col-sm-7,.col-sm-9{float:left}.col-sm-9{width:75%}.col-sm-7{width:58.33333333%}.col-sm-5{width:41.66666667%}.col-sm-3{width:25%}}@media (min-width:992px){.col-md-12,.col-md-3,.col-md-6,.col-md-9{float:left}.col-md-12{width:100%}.col-md-9{width:75%}.col-md-6{width:50%}.col-md-3{width:25%}}.clearfix:after,.clearfix:before,.container:after,.container:before,.row:after,.row:before{display:table;content:" "}.clearfix:after,.container:after,.row:after{clear:both}.pull-right{float:right}.pull-left{float:left}.hide{display:none}.show{display:block}.hidden{display:none}@font-face{font-family:digital_sans_ef_medium;src:url(/assets/fonts/digital_sans_ef_medium.woff2) format("woff2");font-weight:400;font-style:normal}@font-face{font-family:advanced_dot_digital7;src:url(/assets/fonts/advanced_dot_digital7.woff2) format("woff2")}body{font-family:digital_sans_ef_medium;font-size:14px}ul{list-style:none;margin:0;padding:0}.topbar-container{background:#030803;padding:8px 0}.topbar-left-section{display:flex;flex-wrap:nowrap}.topbar-left-section [data-icon]{display:inline-block;height:14px;width:14px;background:center no-repeat;background-size:contain;margin-left:3px}.topbar-left-section .topbar-item{color:#fff;font-size:12px;display:flex;justify-content:center;align-items:center}.topbar-left-section .topbar-item+.topbar-item{margin-left:10px;border-left:1px dotted #ccc;padding-left:10px}.topbar-left-section .topbar-item a{color:inherit;text-decoration:none;padding:5px 10px;border-radius:3px;line-height:1;display:flex;align-items:center}.topbar-left-section .live-chat{background-color:#174d17}.topbar-left-section .live-chat:hover{background-color:#8dff62}.open>a{outline:0}.login-panel{display:flex;flex-wrap:nowrap;justify-content:flex-end;align-items:flex-start;font-size:12px;color:#fff}.login-panel .login-panel-item+.login-panel-item{margin-left:10px}.login-panel .login-panel-item>label{position:relative;margin-bottom:0}.login-panel input[type=password],.login-panel input[type=text]{background-color:#020802;border:1px solid #2eff2e;min-width:135px;text-indent:22px;line-height:26px;color:inherit}.login-panel input[type=password]::placeholder,.login-panel input[type=text]::placeholder{color:inherit}.login-panel .login-button,.login-panel .register-button{border-radius:15px;display:block;padding:3px 10px;text-transform:uppercase;color:inherit;line-height:22px;border:none;width:90px;text-align:center;text-decoration:none;outline:0}.login-panel .login-button{background:#25ff19;background:linear-gradient(to bottom,#25ff19 0,#0a8f12 100%)}.login-panel .login-button:hover{background:#0a8f12;background:linear-gradient(to bottom,#0a8f12 0,#25ff19 100%)}.login-panel .register-button{background:#5dff38;background:linear-gradient(to bottom,#5dff38 0,#149d1e 100%)}.login-panel .register-button:hover{background:#149d1e;background:linear-gradient(to bottom,#149d1e 0,#5dff38 100%)}.login-panel [data-icon]{position:absolute;top:50%;transform:translateY(-50%);left:6px;height:14px;width:14px;background:center no-repeat;background-size:contain}.site-header{background:#071507;border-bottom:4px solid #39ff14}.site-header .logo{display:block;background:center top no-repeat;background-size:100%;width:100%;padding-top:5%;position:relative}.site-header .logo>img{position:absolute;top:0;left:0;height:calc(100% - 15px * 2);width:100%;margin:15px 0}.site-header .container{position:relative}.site-header .container .row>div{position:initial}.top-menu{margin:0;padding:0;list-style:none;display:flex;flex-wrap:nowrap}.top-menu>li{flex:1;color:#adbed2}.top-menu>li>a{text-decoration:none;display:block;padding:20px 0;width:100%;text-align:center;color:inherit;text-transform:uppercase}.top-menu>li:hover,.top-menu>li[data-active=true]{color:#fff;background-image:radial-gradient(circle at top center,rgba(255,255,255,.2) 0,rgba(255,255,255,0) 100%)}.top-menu [data-icon]{display:block;margin:0 auto 5px;height:30px;width:30px;background-repeat:no-repeat;background-position:top center;background-image:var(--image-src)}.top-menu [data-icon=home]{background-position-y:0}.top-menu>li:hover [data-icon=home],.top-menu>li[data-active=true] [data-icon=home]{background-position-y:-28px}.top-menu [data-icon=hot-games]{background-position-y:-760px}.top-menu>li:hover [data-icon=hot-games],.top-menu>li[data-active=true] [data-icon=hot-games]{background-position-y:-794px}.top-menu>li:not(:hover) .game-list{display:none}.top-menu .game-list{position:absolute;top:100%;left:0;right:0;z-index:16;border-top:4px solid #39ff14;background-color:rgba(3,8,40,.9);border-bottom:10px solid #39ff14;border-bottom-right-radius:5px;border-bottom-left-radius:5px;padding:10px 0 20px;margin:0;list-style:none;display:flex;flex-wrap:wrap;justify-content:center}.top-menu .game-list>li{flex-basis:25%;display:inline-block;padding:0 10px;margin:3px 0}.top-menu .game-list>li:not(:nth-child(4n)):not(:last-child){background:no-repeat right center;background-image:var(--separator-src)}.top-menu .game-list>li>a{display:block;width:100%;padding-top:0;position:relative}.top-menu .game-list>li>a>img,.top-menu .game-list>li>a>picture>img{position:absolute;top:0;left:0;height:100%;width:100%}.top-menu .game-list>li:hover>a>img:last-child,.top-menu .game-list>li:hover>a>picture:last-child>img,.top-menu .game-list>li:not(:hover)>a>img:first-child,.top-menu .game-list>li:not(:hover)>a>picture:first-child>img{opacity:0}.site-footer{border-top:2px solid #1f8f25;padding:20px 0;background:no-repeat center;background-size:cover;background-image:var(--image-src)}.progressive-jackpot{background:center no-repeat;background-size:contain;display:flex;justify-content:flex-end;align-items:center}.progressive-jackpot .jackpot-container{font-family:advanced_dot_digital7;color:#fff;font-size:32px;width:73%;text-align:center;height:50px;position:relative}.progressive-jackpot .jackpot-currency{color:#39ff14;margin-right:20px}.jackpot-winners{width:100%;padding:5px 0;background:linear-gradient(to right,#061206 0,#1a8f27 48%,#061406 100%)}.jackpot-winners .jackpot-winner-title{padding:5px 10px;color:#fff;display:flex;align-items:center}.jackpot-winners .jackpot-winner-title [data-icon=trophy]{display:inline-block;height:16px;width:16px;margin-right:5px;background:center no-repeat;background-image:var(--image-src);background-size:contain}.jackpot-winners .winners-ticker-container{margin:0 5px;height:70px;overflow:hidden;background-color:#030803}.winners-ticker{height:100%;position:relative}.winners-ticker ul{width:100%;margin:0;padding:0}.winners-ticker ul li{padding:10px;display:flex;align-items:center}.winners-ticker ul li .image-wrapper{height:50px;width:50px}.winners-ticker ul li .winner-info{color:#fff;font-size:12px;padding-left:10px}.winners-ticker ul li .winner-amount{color:#8eff4d}.home-info-container{background:#030803;border-bottom:2px solid #1f8f25}.popular-games{display:flex;background:center top no-repeat;background-image:var(--image-src);background-color:#030803;margin-bottom:25px}.popular-games .jackpot-winners .winners-ticker-container{height:140px}.popular-games [data-section=left]{display:flex;flex-direction:column;justify-content:space-between;margin-right:10px}.popular-games [data-section=left] .section-title{font-size:19px;background-color:#1c318a;color:#fff;height:55px;display:flex;justify-content:center;align-items:center}.popular-games [data-section=left] [data-icon=play]{display:inline-block;height:20px;width:20px;background:center no-repeat;background-image:var(--image-src);background-position:-8px -335px;margin-right:5px}.popular-games [data-section=right]{width:455px}.popular-games .scrtabs-tab-container{position:relative;z-index:1}.popular-games .nav-tabs>li{margin-bottom:0;width:100%}.popular-games .nav-tabs>li>a{background-color:#051030;padding:2px 8px;margin:3px 1px;border-radius:5px;display:block}.popular-games .nav-tabs>li.active>a,.popular-games .nav-tabs>li.active>a:focus,.popular-games .nav-tabs>li.active>a:hover,.popular-games .nav-tabs>li>a{border:none}.popular-games .nav-tabs>li.active>a,.popular-games .nav-tabs>li.active>a:hover .popular-games .nav-tabs>li.active>a:focus,.popular-games .nav-tabs>li>a:hover{background-color:#0b173f}.popular-games .nav-tabs{border-bottom:none;list-style:none;padding:0;display:flex;align-items:center;justify-content:space-around;margin-top:0}.popular-games .scrtabs-tab-scroll-arrow{background-color:#5078d8;border:none;color:#fff}.popular-games .animated-image{position:absolute;top:0;right:0;height:100%;width:420px;animation-duration:1s;animation-name:fade-in-right-animation;animation-fill-mode:both;pointer-events:none}@keyframes fade-in-right-animation{0%{opacity:0;transform:translateX(-50px)}100%{opacity:1;transform:translateX(0)}}.popular-games .tab-pane{background-color:#050e2d}.popular-games .tab-content{border:1px solid #0d215c;margin-top:5px}.popular-games .popular-game-list{display:flex;flex-wrap:wrap;padding:0 15px;position:relative;z-index:1}.popular-games .popular-game-list .game-item{width:calc(100% / 3);padding:5px}.popular-games .popular-game-list .game-wrapper{position:relative;padding-top:0}.popular-games .popular-game-list .game-name{position:absolute;left:0;right:0;bottom:0;font-size:13px;text-align:center;padding:10px 0;background:linear-gradient(to bottom,#39ff14 0,#0f8f1c 100%);color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.popular-games .popular-game-list img{position:absolute;top:0;left:0;height:100%;width:100%}.popular-games .popular-game-list .link-container{position:absolute;top:0;left:0;right:0;bottom:40px;display:flex;flex-direction:column;justify-content:space-around;align-items:center;transition:.5s ease;opacity:0}.popular-games .popular-game-list .link-container a{padding:5px;width:80%;border-radius:30px;text-align:center}.popular-games .popular-game-list .game-item:hover .link-container{opacity:1}.home-jackpot-container{display:flex;justify-content:space-between;margin-bottom:10px}.home-jackpot-container [data-section]{height:140px}.home-jackpot-container [data-section=jackpot]{flex-basis:calc((100% - 15px) * 0.8)}.home-jackpot-container [data-section=jackpot] .progressive-jackpot{height:100%}a{outline:0;color:#baff9b}a:focus,a:hover{color:#2fcf20;text-decoration:none}body{color:#d4ddd4}p{color:#9eb29e}.nav-tabs>li>a:hover{border-color:#eee #eee #ddd;background-color:#0a0a09;color:#71ff45}.topbar-left-section .topbar-item{color:#fff}.jackpot-winners .jackpot-winner-title{color:#fff}.winners-ticker ul li .winner-info{color:#fff}.login-panel{color:#fff}@keyframes marquee{0%{transform:translateX(100%)}100%{transform:translateX(-150%)}}.marquee-vertical{position:absolute;transform:translateY(-100%);will-change:transform;animation-duration:25s;animation-timing-function:linear;animation-iteration-count:infinite;-webkit-animation-name:marquee-vertical;-moz-animation:marquee-vertical;-o-animation-name:marquee-vertical;animation-name:marquee-vertical}@keyframes marquee-vertical{0%{transform:translateY(100%)}100%{transform:translateY(-100%)}}.progressive-jackpot .jackpot-container,.progressive-jackpot .jackpot-currency{color:#39ff14}.site-description{color:#fff}.site-description h1,.site-description h2,.site-description h3{color:#9dff70}.site-description div,.site-description p{color:#fff}.site-description a{color:#39ff14}.site-description table tr td{border:1px solid #71ff45;padding:8px}.site-description ul{list-style:initial;padding-left:15px}.site-description ol{list-style:decimal;padding-left:15px}.home-info-container{background:#040804;border-bottom-color:#1f6f24}.popular-games .nav-tabs>li>a{background-color:#050a05}.popular-games .nav-tabs>li.active>a,.popular-games .nav-tabs>li.active>a:hover .popular-games .nav-tabs>li.active>a:focus,.popular-games .nav-tabs>li>a:hover{background-color:#071207}.popular-games .tab-pane{background-color:#071207}.popular-games .tab-content{border-color:#071207}.popular-games [data-section=left] .section-title{background-color:#061006;color:#7dff54}.popular-games .popular-game-list .game-name{color:#fff;background:#179a22}.popular-games .scrtabs-tab-scroll-arrow{color:#e6d580;background-color:transparent}.topbar-left-section .topbar-item{color:#a9c4a9;border-right-color:#266f2b}.topbar-left-section .topbar-item a:hover{color:#70ff48}.topbar-left-section .topbar-item a.live-chat{color:#d5ffc9;background-color:#266f2b}.topbar-left-section .topbar-item a.live-chat:hover{color:#704b12;background:#b8ff9a;background:linear-gradient(to bottom,#b8ff9a 0,#2fcf20 100%)}.site-header{background:#061006;border-color:#061006}.top-menu .game-list{border-top-color:#061006;background-color:rgba(0,0,0,.9);border-bottom-color:#102010}.top-menu>li,.top-menu>li:hover,.top-menu>li[data-active=true]{color:#8cff62}.site-footer{border-top-color:#101010;background:#050905;background-image:none}.free-play,.play-now{border:none}.play-now{background:#b8ff9a;background:linear-gradient(to bottom,#b8ff9a 0,#2fcf20 88%);color:#000}.free-play{background:#123812;background:linear-gradient(to bottom,#123812 0,#0f2b0f 100%);color:#fff}.free-play:hover{background:#0f2b0f;background:linear-gradient(to bottom,#0f2b0f 0,#123812 100%)}.play-now:hover{background:#2fcf20;background:linear-gradient(to bottom,#2fcf20 0,#b8ff9a 88%)}.game-list{border-color:#050b05}.game-list .game-item{background-color:#0c0c0c}.jackpot-winners{background:#040804;background:linear-gradient(to bottom,#040804 0,#3b3b3b 46%,#040804 100%)}.jackpot-winners .winners-ticker-container ul li{background-color:#030803}.winners-ticker ul li .winner-amount{color:#8eff4d}.login-panel input[type=password],.login-panel input[type=text]{background-color:#030603;color:#888;border-color:#c3952a}.login-panel .login-button{background:#194d19;background:linear-gradient(to bottom,#194d19 0,#0b250b 100%);color:#fff}.login-panel .login-button:hover{background:#0b250b;background:linear-gradient(to bottom,#0b250b 0,#194d19 100%)}.login-panel .register-button{background:#b8ff9a;background:linear-gradient(to bottom,#b8ff9a 0,#2fcf20 100%);color:#fff}.login-panel .register-button:hover{background:#2fcf20;background:linear-gradient(to bottom,#2fcf20 0,#b8ff9a 100%);color:#000}.topbar-container{background:#050905}.scrtabs-tab-container{background:#102010;background:-moz-linear-gradient(top,#102010 0,#224422 46%,#102010 100%);background:-webkit-linear-gradient(top,#102010 0,#224422 46%,#102010 100%);background:linear-gradient(to bottom,#102010 0,#224422 46%,#102010 100%)}table td div{height:100%}@font-face{font-family:"Glyphicons Halflings";src:url(/assets/fonts/glyphicons-halflings-regular.eot);src:url(/assets/fonts/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"),url(/assets/fonts/glyphicons-halflings-regular.woff) format("woff"),url(/assets/fonts/glyphicons-halflings-regular.ttf) format("truetype"),url(/assets/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular) format("svg")}.glyphicon{position:relative;top:1px;display:inline-block;font-family:"Glyphicons Halflings";-webkit-font-smoothing:antialiased;font-style:normal;font-weight:400;line-height:1}.home-jackpot-container{display:flex;justify-content:space-between;height:140px}.home-jackpot-container [data-section=jackpot]{width:100%}.progressive-jackpot{background:center no-repeat;background-size:contain;display:flex;justify-content:flex-end;align-items:center}.home-jackpot-container [data-section=jackpot] .progressive-jackpot{height:100%}.progressive-jackpot .jackpot-container{font-family:advanced_dot_digital7;color:#fff;font-size:32px;width:73%;text-align:center}.progressive-jackpot .jackpot-currency{color:#39ff14;margin-right:20px}.progressive-jackpot .jackpot-container,.progressive-jackpot .jackpot-currency{color:#39ff14}.glyphicon-chevron-right:before{content:""}.fixed-footer,.login-links-container,.main-menu-container,.mobile-jackpot,.mobile-site-header{display:none}.section-button .section-title{text-align:center;padding:10px;background-color:#9dff70;color:#000;font-size:2rem;font-family:digital_sans_ef_medium}#section-button-mobile{display:none}@media only screen and (max-width:768px){.home-info-container,.site-header,.topbar-container{display:none}#section-button-mobile{display:block}.mobile-jackpot{height:140px}body{padding-bottom:50px}.mobile-site-header{position:fixed;top:0;left:0;right:0;z-index:99;background:#0a1749;padding:10px;display:flex;justify-content:center;align-items:center}.mobile-site-header .logo{display:inline-block;width:150px;padding-top:0;position:relative}.mobile-site-header .logo>img{position:absolute;top:0;left:0;height:100%;width:100%}.mobile-site-header>input{visibility:hidden;position:absolute}.site-menu-trigger{margin:0;position:absolute;right:25px;cursor:pointer}.site-menu-trigger [data-icon=menu]{display:inline-block;position:absolute;left:50%;top:58%;bottom:auto;right:auto;transform:translateX(-50%) translateY(-50%);width:18px;height:2px;background-color:#8e8e8e;transition:.5s ease-in-out}.site-menu-trigger [data-icon=menu]:after,.site-menu-trigger [data-icon=menu]:before{content:"";width:100%;height:100%;position:absolute;background-color:inherit;left:0}.site-menu-trigger [data-icon=menu]:before{bottom:5px}.site-menu-trigger [data-icon=menu]:after{top:5px}.site-menu-trigger-input:checked~.site-menu-trigger [data-icon=menu]{background-color:transparent}.site-menu-trigger-input:checked~.site-menu-trigger [data-icon=menu]:after,.site-menu-trigger-input:checked~.site-menu-trigger [data-icon=menu]:before{background-color:#fff}.site-menu-trigger-input:checked~.site-menu-trigger [data-icon=menu]:before{bottom:0;transform:rotate(45deg)}.site-menu-trigger-input:checked~.site-menu-trigger [data-icon=menu]:after{top:0;transform:rotate(-45deg)}.site-menu-trigger-input:checked~.site-menu{left:0}.site-menu ul{margin:0}.site-menu ul a{color:inherit}.site-menu summary{outline:0;display:flex;justify-content:space-between;list-style-type:none}.site-menu summary>span{display:flex}.site-menu summary>section{display:flex;justify-content:space-between;align-items:center;width:100%}.site-menu summary>section>span{display:flex}.site-menu summary>section>i{transition:transform .3s;transform-origin:center;font-size:var(--small-font);top:0}.site-menu details[open]>summary>section>i{transform:rotate(90deg)}.site-menu{position:fixed;top:0;left:100%;right:0;bottom:50px;transition:left .2s}.site-menu>label{position:absolute;height:100%;width:100%}.site-menu>ul{position:absolute;top:54px;width:60%;right:0;bottom:0;background-color:#01091a;color:#fff;font-size:16px;padding-top:2px;overflow:auto}.site-menu li>a,.site-menu summary{display:flex;align-items:center;background-color:#0d1b39;padding:10px 15px;font-size:var(--normal-font)}.site-menu article>ul,.site-menu li+li,.site-menu summary{margin-top:2px}.site-menu details details summary,.site-menu details li>a{padding-left:45px;background-color:#06122c}.site-menu details details li>a{padding-left:75px;background-color:#040d20}.site-menu [data-icon]{display:inline-block;height:18px;width:18px;background:center no-repeat;margin-right:10px}.login-links-container{display:flex;flex-wrap:wrap}.login-links-container .image-wrapper{flex:1 1 50%;position:relative}.login-links-container a{flex-basis:50%;color:#fff;padding:14px 20px;text-align:center;line-height:1;text-decoration:none;font-size:18px}.login-links-container a.register{background-color:#fca501;background-image:linear-gradient(to bottom,#fca501,#ce7400);flex:1 1 50%}.login-links-container a.login{background-color:#1c399b;background-image:linear-gradient(to bottom,#1c399b,#041744);flex:1 1 50%}.main-menu-container{margin-bottom:10px;display:flex;flex-wrap:wrap;background-color:#030803;color:#fff}.main-menu-container>li{flex-basis:25%;padding:5px;order:2}.main-menu-container>li:nth-child(-n+4){order:0}.main-menu-container .game-list{order:3;flex-basis:100%}.main-menu-container>[data-active=true]:nth-of-type(-n+4)~.game-list{order:1}.main-menu-container>li>a{display:block;color:inherit;border:2px solid transparent;border-radius:5px;padding:5px 0;text-align:center;text-transform:uppercase}.main-menu-container>[data-active=true]>a{background-color:#050d2e;border-color:#08133b}.main-menu-container [data-active] .image-wrapper{margin:8px auto}.main-menu-container [data-active=true] img{content:var(--image-src)}.progressive-jackpot{background:center no-repeat;background-size:contain;display:flex;justify-content:center;align-items:flex-end;height:120px}.progressive-jackpot .jackpot-container{font-family:advanced_dot_digital7;color:#fff;font-size:20px;text-align:center;padding-top:3.1rem}.progressive-jackpot .jackpot-currency{color:#39ff14;margin-right:20px}.fixed-footer{position:fixed;background-color:#141125;color:#736d99;left:0;right:0;bottom:0;z-index:99;display:flex;justify-content:space-around}.fixed-footer a{flex-basis:calc((100% - 15px * 6)/ 5);color:inherit;font-size:11px;text-align:center;padding:5px 0;background-color:inherit}.fixed-footer a[data-active=true]{color:#ff35ed}.fixed-footer a>img{display:block;height:25px;width:25px;margin:0 auto;background:center no-repeat;background-size:contain;background-color:inherit}.fixed-footer a[data-active=true]>img{content:var(--image-src)}}@media only screen and (max-width:768px){body{color:#9eb29e;background-color:#040804}h1{color:#a9c4a9}p{color:#9eb29e}a{color:#39ff14}.mobile-site-header{background:#061006}.site-menu-trigger [data-icon=menu]{background-color:#9dff70}.site-menu-trigger [data-icon=menu]:after,.site-menu-trigger [data-icon=menu]:before{background-color:inherit}.site-menu-trigger-input:checked~.site-menu-trigger [data-icon=menu]{background-color:transparent}.site-menu-trigger-input:checked~.site-menu-trigger [data-icon=menu]:after,.site-menu-trigger-input:checked~.site-menu-trigger [data-icon=menu]:before{background-color:#fff}.site-menu ul a{color:inherit}.site-menu>ul{background-color:#070707;color:#fff}.site-menu li>a,.site-menu summary{background-color:#071207}.site-menu details details summary,.site-menu details li>a{background-color:#040804}.site-menu details details li>a{background-color:#070707}.site-footer{background-color:#030803;color:#7aa07a;padding:0;padding-top:15px}.site-footer>.container{padding:0}.site-footer .site-description{background-color:#080808;padding:15px 10px}.login-links-container a{color:#fff}.login-links-container a.register{background:#9dff70;background:linear-gradient(to bottom,#9dff70 0,#ba8a1c 100%)}.login-links-container a.login{background:#696969;background:linear-gradient(to bottom,#696969 0,#383838 100%)}.main-menu-container{background-color:#040804;color:#efd77f}.main-menu-container>li>a{color:inherit}.main-menu-container>[data-active=true]>a{background-color:#061006;border-color:transparent}.game-list ul{background-color:#061006}.game-list ul>li{color:#fff}.game-list ul>li .game-name{background-color:#c79a30}.free-play,.play-now{border-color:transparent}.free-play{color:#fff;background:#123812;background:linear-gradient(to bottom,#123812 0,#0f2b0f 100%)}.free-play:hover{background:#0f2b0f;background:linear-gradient(to bottom,#0f2b0f 0,#123812 100%)}.play-now{background:#b8ff9a;background:linear-gradient(to bottom,#b8ff9a 0,#2fcf20 88%);color:#000}.play-now:hover{background:#2fcf20;background:linear-gradient(to bottom,#2fcf20 0,#b8ff9a 88%)}.progressive-jackpot .jackpot-container{color:#39ff14;width:100%;text-align:center;height:75px;margin-bottom:10px}.progressive-jackpot .jackpot-currency{color:#39ff14;margin-right:0}.fixed-footer{background-color:#1d1d1d;color:#636363}.fixed-footer a[data-active=true]{color:#ba9f6e}}.carousel-desktop{display:block}.carousel-mobile{display:none}amp-carousel{height:auto}@media (max-width:768px){.carousel-desktop{display:none}.carousel-mobile{display:block}}.breadcrumbs-title{color:#fff}.breadcrumbs-title .breadcrumbs-link{text-decoration:none;color:#9dff70}.site-footer-body{background-color:black;border-top:2px solid #9dff70;padding:20px 0}.site-footer-body p{color:#fff}.site-footer-body .custom-column{align-self:flex-end}.site-footer-body .custom-column .icon-list .icon-item:first-child{flex:0 0 75px;max-width:75px}.site-footer-body .custom-column .icon-list .icon-item:nth-child(2){flex:1;max-width:initial}.site-footer-body .icon-list{display:flex;flex-wrap:wrap}.site-footer-body .icon-list .icon-item{flex:0 0 40px;max-width:40px;padding:5px}.site-footer-body .icon-list .icon-item amp-img{object-fit:contain}.site-footer-body .icon-list .icon-item a{display:block}@media screen and (max-width:991px){.site-footer-body .custom-column .icon-list .icon-item:nth-child(2){flex:0 0 210px;max-width:210px}}:root{--wih-bg:#050505;--wih-bg2:#0b0904;--wih-panel:#11100b;--wih-panel2:#1b1609;--wih-gold:#f7c742;--wih-gold2:#d79518;--wih-gold3:#fff2a6;--wih-white:#fff8df;--wih-text:#f4ead2;--wih-muted:#b6a77d;--wih-line:rgba(247,199,66,.45);--wih-glow:0 0 10px rgba(247,199,66,.55),0 0 26px rgba(247,199,66,.22)}body,.home-info-container,.site-footer,.site-footer-body{background:radial-gradient(circle at top center,#1b1609 0,#050505 45%,#020202 100%);color:var(--wih-text)}a,.breadcrumbs-title .breadcrumbs-link,.site-description a{color:var(--wih-gold3)}a:focus,a:hover{color:var(--wih-gold);text-shadow:var(--wih-glow)}.topbar-container,.site-header,.popular-games .tab-pane,.popular-games .nav-tabs>li>a{background:#080704;border-color:#3a2a08}.site-header{background:linear-gradient(180deg,#0d0b05 0,#050505 100%);border-bottom:4px solid var(--wih-gold);box-shadow:0 4px 24px rgba(247,199,66,.22)}.site-header,.home-info-container,.site-footer,.site-footer-body{border-color:var(--wih-line)}.top-menu>li,.top-menu>li:hover,.top-menu>li[data-active=true],.site-description h1,.site-description h2,.site-description h3{color:var(--wih-gold);text-shadow:var(--wih-glow)}.top-menu>li:hover,.top-menu>li[data-active=true]{background-image:radial-gradient(circle at top center,rgba(247,199,66,.28) 0,rgba(247,199,66,0) 72%);color:var(--wih-white)}.top-menu .game-list{background:rgba(5,5,5,.95);border-top-color:var(--wih-gold);border-bottom-color:#5c3e09;box-shadow:0 12px 38px rgba(247,199,66,.2)}.login-panel input[type=password],.login-panel input[type=text]{background:#060504;color:var(--wih-white);border:1px solid var(--wih-line);box-shadow:inset 0 0 12px rgba(247,199,66,.12)}.login-panel input[type=password]::placeholder,.login-panel input[type=text]::placeholder{color:#d8c589}.login-panel .login-button,.free-play{background:linear-gradient(to bottom,#211806 0,#080604 100%);color:var(--wih-white);border:1px solid rgba(247,199,66,.38)}.login-panel .register-button,.play-now,.popular-games .popular-game-list .game-name{background:linear-gradient(to bottom,#fff2a6 0,#f7c742 42%,#b67608 100%);color:#080604;text-shadow:0 1px 0 rgba(255,255,255,.35);box-shadow:var(--wih-glow)}.login-panel .login-button:hover,.login-panel .register-button:hover,.play-now:hover,.free-play:hover{filter:brightness(1.12);box-shadow:0 0 16px rgba(247,199,66,.65),0 0 36px rgba(247,199,66,.28)}.jackpot-winners,.scrtabs-tab-container{background:linear-gradient(180deg,#0b0904 0,#241a07 48%,#050505 100%);color:var(--wih-gold3);border:1px solid rgba(247,199,66,.25)}.progressive-jackpot .jackpot-container,.progressive-jackpot .jackpot-currency,.winners-ticker ul li .winner-amount{color:var(--wih-gold);text-shadow:var(--wih-glow)}.site-description div,.site-description p,.site-footer-body p,.winners-ticker ul li .winner-info{color:var(--wih-text)}p{color:var(--wih-muted)}.site-description table tr td{border-color:var(--wih-line)}.popular-games [data-section=left] .section-title,.popular-games .nav-tabs>li.active>a,.popular-games .nav-tabs>li>a:hover{background:#171107;color:var(--wih-gold3);border-color:var(--wih-line)}.popular-games .tab-content{border-color:rgba(247,199,66,.28)}.site-description table tr td{color:var(--wih-gold3)}.site-footer{background:#050505;background-image:none;border-top-color:var(--wih-gold)}.breadcrumbs-title{color:var(--wih-white)}.login-panel .login-button,.login-panel .register-button,.login-links-container a.login,.login-links-container a.register{position:relative;overflow:hidden;border-radius:18px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;transform:perspective(120px) translateZ(0);transition:transform .18s ease;animation:wih3dPulse 1.85s ease-in-out infinite;will-change:transform}.login-panel .login-button,.login-links-container a.login{background:linear-gradient(180deg,#1b1b1b 0,#070707 48%,#2a2108 100%);color:#fff7c2;border:1px solid rgba(247,199,66,.75);box-shadow:0 5px 0 #604000,0 0 12px rgba(247,199,66,.55),inset 0 1px 0 rgba(255,255,255,.35)}.login-panel .register-button,.login-links-container a.register{background:linear-gradient(180deg,#fff7b7 0,#ffc928 40%,#b87200 100%);color:#120b00;border:1px solid rgba(255,244,160,.9);box-shadow:0 5px 0 #6f4100,0 0 14px rgba(255,214,60,.72),inset 0 1px 0 rgba(255,255,255,.75);text-shadow:0 1px 0 rgba(255,255,255,.45)}.login-panel .login-button:before,.login-panel .register-button:before,.login-links-container a.login:before,.login-links-container a.register:before{content:"";position:absolute;z-index:1;top:-120%;left:-45%;width:42%;height:320%;background:linear-gradient(90deg,transparent,rgba(255,255,255,.9),transparent);transform:translateX(-180%) rotate(24deg);animation:wihLightningSweep 2.15s linear infinite;pointer-events:none}.login-panel .login-button:after,.login-panel .register-button:after,.login-links-container a.login:after,.login-links-container a.register:after{content:"⚡";position:absolute;z-index:2;right:7px;top:50%;font-size:15px;line-height:1;transform:translateY(-50%) scale(.85);color:#fff9ae;text-shadow:0 0 6px #fff,0 0 14px #f7c742,0 0 28px #39ff14;opacity:.15;animation:wihBoltBlink 1s steps(2,end) infinite;pointer-events:none}.login-panel .login-button:hover,.login-panel .register-button:hover,.login-links-container a.login:hover,.login-links-container a.register:hover{transform:perspective(120px) translateY(-2px) rotateX(8deg);box-shadow:0 7px 0 #5d3a00,0 0 18px rgba(255,220,70,.9),0 0 38px rgba(255,220,70,.36),inset 0 1px 0 rgba(255,255,255,.65);text-decoration:none}.login-links-container a.login,.login-links-container a.register{display:block;text-align:center;padding:10px 12px;border-radius:12px;line-height:1.2}@keyframes wih3dPulse{0%,100%{transform:perspective(120px) translateZ(0)}50%{transform:perspective(120px) translateY(-1px) rotateX(5deg)}}@keyframes wihLightningSweep{0%{opacity:0;transform:translateX(-180%) rotate(24deg)}8%{opacity:.9}26%{opacity:0;transform:translateX(520%) rotate(24deg)}100%{opacity:0;transform:translateX(520%) rotate(24deg)}}@keyframes wihBoltBlink{0%,18%,42%,100%{opacity:.18;transform:translateY(-50%) scale(.85)}20%,24%,44%,50%{opacity:1;transform:translateY(-50%) scale(1.18)}}
+/* MOBILE BANNER SIZE FIX - matched to reference AMP file */
+.home-banner{margin:0;padding:0;line-height:0;background:#050505;overflow:hidden}
+.home-banner a{display:block;width:100%;line-height:0}
+.carousel-desktop{display:block}
+.carousel-mobile{display:none}
+@media only screen and (max-width:768px){
+  body:not(.empty-layout){padding-top:54px;background-color:#040804}
+  .home-banner{margin:0;padding:0;line-height:0;background:#050505;overflow:hidden}
+  .home-banner amp-list,.home-banner amp-carousel{width:100%;line-height:0}
+  .home-banner .carousel-desktop,.carousel-desktop{display:none}
+  .home-banner .carousel-mobile,.carousel-mobile{display:block}
+  .login-links-container{margin-top:0}
+}
+@media only screen and (min-width:769px){
+  .home-banner .carousel-mobile,.carousel-mobile{display:none}
+  .home-banner .carousel-desktop,.carousel-desktop{display:block}
+}
+</style>
+</head>
+<body>
+    <!-- Configure analytics to use gtag -->
+    <amp-analytics type="gtag" data-credentials="include">
+        <script type="application/json">
+            {
+                "vars" : {
+                    "gtag_id": "UA-194263863-3",
+                    "config" : {
+                        "UA-194263863-3": { "groups": "default" }
+                    }
+                }
+            }
+        </script>
+    </amp-analytics>
+    <amp-analytics type="googleanalytics" config="https://amp.analytics-debugger.com/ga4.json" data-credentials="include">
+        <script type="application/json">
+            {
+                "vars": {
+                    "GA4_MEASUREMENT_ID": "G-572T56YP7M",
+                    "GA4_ENDPOINT_HOSTNAME": "www.google-analytics.com",
+                    "DEFAULT_PAGEVIEW_ENABLED": true,
+                    "GOOGLE_CONSENT_ENABLED": false,
+                    "WEBVITALS_TRACKING": false,
+                    "PERFORMANCE_TIMING_TRACKING": false,
+                    "SEND_DOUBLECLICK_BEACON": false
+                }
+            }
+        </script>
+    </amp-analytics>
+    <span hidden id="template-version">1-a</span>
+    
+    <div class="topbar-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-5">
+                    <div class="topbar-left-section">
+                        <div class="topbar-item">
+                            <a href="https://t.ly/borgol" class="js_live_chat_link live-chat">Live Chat</a>
+                        </div>
+                        <div class="topbar-item">
+                            <a href="https://t.ly/tembung" rel="nofollow">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-7">
+                    <form method="post" target="_blank" action-xhr="https://mobilbydjakarta.id/">
+                        <div class="login-panel">
+                            <div class="login-panel-item">
+                                <a href="https://t.ly/tambun" class="login-button">Masuk</a>
+                            </div>
+                            <div class="login-panel-item">
+                                <a href="https://t.ly/borgol" class="register-button">Daftar</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="site-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3 col-md-3">
+                    <a href="https://mobilbydjakarta.id/" class="logo" style="background-image: url(//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/layout/logo-background.png?v=202012041507);">
+                        <amp-img width="260" height="60" layout="responsive" src="/assets/logo-kage303.png"></amp-img>
+                    </a>
+                </div>
+                <div class="col-sm-9 col-md-9">
+                        <ul class="top-menu" style="--image-src: url(//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/layout/category-sprite.png?v=20210504); --separator-src: url(//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/layout/vertical-seperator.png?v=20210504);">
+                            <li>
+                                <a href="https://mobilbydjakarta.id/">
+                                    
+                            <amp-img alt="Hot Games"  height="30" src="/assets/hot-games.svg" width="30"></amp-img><div>Hot Games</div></a>
+                                <ul class="game-list">
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/trg.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/pgs.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/onepoker.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/g8poker.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/pp.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/slot88.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/live22.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/giocoplus.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li data-active="false">
+                                <a href="https://mobilbydjakarta.id/"><amp-img alt="Slots"  height="30" src="/assets/slots.svg" width="30"></amp-img><div>Slots</div></a>
+                                <ul class="game-list">
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/pp.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/live22.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/slot88.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/pgs.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/pgsoft.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/joker.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/spadegaming.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/jdb.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/playtech.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/microgaming.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/habanero.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/sbocq9.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/yggdrasil.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/playngo.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/onetouch.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/sborealtimegaming.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/sboflowgaming.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li data-active="false">
+                                <a href="https://mobilbydjakarta.id/"><amp-img alt="Casino"  height="30" src="/assets/casino.svg" width="30"></amp-img><div>Casino</div></a>
+                                <ul class="game-list">
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/trg.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/prettygaming.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/pplivecasino.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/evogaming.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/ag.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/sbocasino.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/sbosexybaccarat.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/dreamgaming.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/allbet.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li data-active="false">
+                                <a href="https://mobilbydjakarta.id/"><amp-img alt="Sports"  height="30" src="/assets/sports.svg" width="30"></amp-img><div>Sports</div></a>
+                                <ul class="game-list">
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/bti.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/sbo.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/sbovirtualgames.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/ibcsports.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li data-active="false">
+                                <a href="https://mobilbydjakarta.id/">
+                                    <amp-img alt="Arcade" layout="fixed" height="30" src="/assets/arcade.svg" width="30"></amp-img>
+                                    <div>Arcade</div>
+                                </a>
+                                <ul class="game-list">
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/ppfishing.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/giocoplus.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/ixttangkas.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/sbofunkygame.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/jokerfishing.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/spadegamingfishing.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/microgamingfishing.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/sbocq9fishing.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li data-active="false">
+                                <a href="https://mobilbydjakarta.id/">
+                                    <amp-img alt="Poker" layout="fixed" height="30" src="/assets/poker.svg" width="30"></amp-img>
+                                    <div>Poker</div>
+                                </a>
+                                <ul class="game-list">
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/idn.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/g8poker.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/onepoker.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li data-active="false">
+                                <a href="https://mobilbydjakarta.id/">
+                                    <amp-img alt="Togel" layout="fixed" height="30" src="/assets/others.svg" width="30"></amp-img>
+                                    <div>Togel</div>
+                                </a>
+                                <ul class="game-list">
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/balak4d.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mobilbydjakarta.id/">
+                                            <amp-img width="272" height="110" layout="responsive" src="//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/providers/shortcuts/isin.png?v=202012041507"></amp-img>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li data-active="false">
+                                <a href="https://mobilbydjakarta.id/">
+                                    <amp-img alt="Promosi" layout="fixed" height="30" src="/assets/icon-kage303.ico" width="30"></amp-img>
+                                    <div>Promosi</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://mobilbydjakarta.id/" rel="nofollow">
+                                    <amp-img alt="Live Tv" layout="fixed" height="30" src="/assets/crash-game.svg" width="30"></amp-img>
+                                    <div>Live Tv</div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <header class="mobile-site-header">
+        <a href="https://mobilbydjakarta.id/" class="logo"><amp-img width="160" height="35" src="/assets/logo-kage303.png"></amp-img></a>
+        <input type="checkbox" id="site_menu_trigger_input" class="site-menu-trigger-input"/>
+        <label class="site-menu-trigger" for="site_menu_trigger_input"><i data-icon="menu"></i></label>
+        <div class="site-menu">
+            <label for="site_menu_trigger_input"></label>
+            <ul>
+                <li>
+                    <a href="https://mobilbydjakarta.id/"><i data-icon="home" style="background-image: url(/assets/icon-kage303.ico);"></i>Beranda</a>
+                </li>
+                <li>
+                    <details>
+                        <summary>
+                            <section>
+                                <span>
+                                    <i data-icon="hot-games" style="background-image: url(//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/mobile/layout/menu/hot-games.svg?v=202012041755);"></i>Games
+                                </span>
+                                <i class="glyphicon glyphicon-chevron-right"></i>
+                            </section>
+                        </summary>
+                        <article>
+                            <ul>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>Hot Games<i class="glyphicon glyphicon-chevron-right"></i></section>
+                                        </summary>
+                                        <article>
+                                            <ul>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> ION Casino </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> ION Slot </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> 9Gaming </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Balak Play </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Pragmatic Play </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Slot88 </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Live22 </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Gioco Plus </a>
+                                                </li>
+                                            </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>Slots<i class="glyphicon glyphicon-chevron-right"></i></section>
+                                        </summary>
+                                        <article>
+                                            <ul>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Pragmatic Play </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Live22 </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Slot88 </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> ION Slot </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> PG Slots </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Joker </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Spade Gaming </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> JDB </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Playtech </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> MicroGaming </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Habanero </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> CQ9 </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Yggdrasil </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Play'n Go </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> OneTouch </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Real Time Gaming </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Flow Gaming </a>
+                                                </li>
+                                            </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>Casino<i class="glyphicon glyphicon-chevron-right"></i></section>
+                                        </summary>
+                                        <article>
+                                            <ul>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> ION Casino </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Pretty Gaming </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> PP Casino </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Evo Gaming </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Asia Gaming </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> SBO Casino </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Sexy Baccarat </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Dream Gaming </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> AllBet </a>
+                                                </li>
+                                            </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>Sports<i class="glyphicon glyphicon-chevron-right"></i></section>
+                                        </summary>
+                                        <article>
+                                            <ul>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> BTI </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> SBO Sportsbook </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> SBO Virtual Sports </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Saba Sportsbook </a>
+                                                </li>
+                                            </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>Arcade<i class="glyphicon glyphicon-chevron-right"></i></section>
+                                        </summary>
+                                        <article>
+                                            <ul>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Pragmatic Play Fishing </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Gioco Plus </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> MM Tangkas </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Funky Games </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Joker Fishing </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Spade Gaming Fishing </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> MicroGaming Fishing </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> CQ9 Fishing </a>
+                                                </li>
+                                            </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>Poker<i class="glyphicon glyphicon-chevron-right"></i></section>
+                                        </summary>
+                                        <article>
+                                            <ul>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> IDNPlay </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Balak Play </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> 9Gaming </a>
+                                                </li>
+                                            </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary>
+                                            <section>Togel<i class="glyphicon glyphicon-chevron-right"></i></section>
+                                        </summary>
+                                        <article>
+                                            <ul>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Balak 4D </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://mobilbydjakarta.id/"> Isin 4D </a>
+                                                </li>
+                                            </ul>
+                                        </article>
+                                    </details>
+                                </li>
+                            </ul>
+                        </article>
+                    </details>
+                </li>
+                <li>
+                    <a href="https://mobilbydjakarta.id/"><i data-icon="login" style="background-image: url(//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/mobile/layout/menu/login.svg?v=202012041755);"></i>Masuk</a>
+                </li>
+                <li>
+                    <a href="https://mobilbydjakarta.id/" rel="nofollow"><i data-icon="desktop" style="background-image: url(//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/mobile/layout/menu/desktop.svg?v=202012041755);"></i>Versi Desktop</a>
+                </li>
+            </ul>
+        </div>
+    </header>
+    <div class="home-banner">
+            <amp-state id="banners">    
+                <script type="application/json">   
+                    {
+                        "items": 
+                        [
+                            { "imageDesktop": "/assets/banner-kage303.png", "imageMobile": "/assets/banner-kage303.png", "url": "#", "title": "Banner 1" }
+                        ]
+                    }
+                </script>
+            </amp-state>
+            <amp-list media="(min-width: 769px)" class="carousel-desktop" layout="responsive" height="613" width="1920" id="amp-list-placeholder2" noloading single-item items="." src="amp-state:banners">
+                <template type="amp-mustache">
+                    <amp-carousel class="carousel-desktop" id="carouselIDDesktop" width="1920" height="613" layout="responsive" type="slides" autoplay delay="7000" role="region" aria-label="Carousel with autoplay">
+                        {{#items}}
+                            <a href="{{url}}" target="_blank">
+                                <amp-img width="1920" height="613" layout="fill" src="{{imageDesktop}}" alt="{{title}}"></amp-img>
+                            </a>
+                        {{/items}}
+                    </amp-carousel>
+                </template>
+            </amp-list>
+            <amp-list media="(max-width: 768px)" class="carousel-mobile" layout="responsive" height="299" width="640" id="amp-list-placeholder1" noloading single-item items="." src="amp-state:banners">
+                <template type="amp-mustache">
+                    <amp-carousel class="carousel-mobile" id="carouselIDMobile" width="640" height="299" layout="responsive" type="slides" autoplay delay="7000" role="region" aria-label="Carousel with autoplay">
+                        {{#items}}
+                            <a href="{{url}}" target="_blank">
+                                <amp-img width="640" height="299" layout="fill" src="{{imageMobile}}" alt="{{title}}"></amp-img>
+                            </a>
+                        {{/items}}
+                    </amp-carousel>
+                </template>
+            </amp-list>
+        </div>
+    <div class="login-links-container">
+        <a href="https://t.ly/tembung" class="register">Daftar</a>
+        <a href="https://t.ly/tambun" class="login">Masuk</a>
+    </div>
+    <ul class="main-menu-container">
+        <li data-active="false">
+            <a href="https://mobilbydjakarta.id/">
+                <div class="image-wrapper">
+                    <amp-img width="30" height="30" src="/assets/hot-games.svg"></amp-img>
+                </div>
+                Hot Games
+            </a>
+        </li>
+        <li data-active="false">
+            <a href="https://mobilbydjakarta.id/">
+                <div class="image-wrapper">
+                    <amp-img width="30" height="30" src="/assets/slots.svg"></amp-img>
+                </div>
+                Slots
+            </a>
+        </li>
+        <li data-active="false">
+            <a href="https://mobilbydjakarta.id/">
+                <div class="image-wrapper">
+                    <amp-img width="30" height="30" src="/assets/casino.svg"></amp-img>
+                </div>
+                Casino
+            </a>
+        </li>
+        <li data-active="false">
+            <a href="https://mobilbydjakarta.id/">
+                <div class="image-wrapper">
+                    <amp-img width="30" height="30" src="/assets/sports.svg"></amp-img>
+                </div>
+                Sports
+            </a>
+        </li>
+        <li data-active="false">
+            <a href="https://mobilbydjakarta.id/">
+                <div class="image-wrapper">
+                    <amp-img width="30" height="30" src="/assets/arcade.svg"></amp-img>
+                </div>
+                Arcade
+            </a>
+        </li>
+        <li data-active="false">
+            <a href="https://mobilbydjakarta.id/">
+                <div class="image-wrapper">
+                    <amp-img width="30" height="30" src="/assets/poker.svg"></amp-img>
+                </div>
+                Poker
+            </a>
+        </li>
+        <li data-active="false">
+            <a href="https://mobilbydjakarta.id/">
+                <div class="image-wrapper">
+                    <amp-img width="30" height="30" src="/assets/others.svg"></amp-img>
+                </div>
+                Togel
+            </a>
+        </li>
+        <li data-active="false">
+            <a href="https://mobilbydjakarta.id/" rel="nofollow">
+                <div class="image-wrapper">
+                    <amp-img width="30" height="30" src="/assets/crash-game.svg"></amp-img>
+                </div>
+                Crash Game
+            </a>
+        </li>
+    </ul>
+    <div class="section-button" id="section-button-mobile">
+
+            </div>
+    </div>
+    <div class="mobile-jackpot">
+        <div class="progressive-jackpot progressive-jackpot-slot" style="background-image: url(//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/mobile/jackpot/animation.gif?v=202012041755);">
+            <div class="jackpot-container">
+                <span class="jackpot-currency">IDR</span><span id="progressive_jackpot_mobile">39,213,693.93</span>
+            </div>
+        </div>
+    </div>
+    <div class="home-info-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="home-jackpot-container">
+                        <div data-section="jackpot">
+                            <div class="progressive-jackpot" style="background-image: url(//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/jackpot/animation.gif?v=202012041507);">
+                                <div class="jackpot-container">
+                                    <span class="jackpot-currency">IDR</span>
+                                    <span id="progressive_jackpot">JIT PAT PAT PAT</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                    <div class="col-md-12">
+                        <div class="popular-games">
+                            <div data-section="left" style="--image-src: url(//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/layout/icon-sprite.png?v=202012041507);">
+                                <div class="section-title">
+                                    <i data-icon="play" style="--image-src: url(//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/layout/icon-sprite.png?v=20210504);"></i>Video Slots Popular
+                                </div>
+                                <div class="jackpot-winners">
+                                    <div class="jackpot-winner-title">
+                                        <i data-icon="trophy" style="--image-src: url(//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/jackpot/trophy.png?v=202012041507);"></i>PEMENANG MESIN SLOT
+                                    </div>
+                                    <div class="winners-ticker-container">
+                                        <div class="winners-ticker" id="winners_ticker">
+                                            <div class="marquee-vertical">
+                                                <ul>
+                                                    <li>
+                                                        <div class="image-wrapper">
+                                                            <amp-img width="50" height="50" layout="responsive" src="//nx-cdn.trgwl.com/Images/providers/PP/vs10bookoftut.png?v=202012041507"></amp-img>
+                                                        </div>
+                                                        <div class="winner-info" style="margin: 0px;">
+                                                            <div>rickygu****n</div>
+                                                            <div>IDR <span class="winner-amount">7981.23</span></div>
+                                                            <div>John Hunter and the Book of Tut™</div>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="image-wrapper">
+                                                            <amp-img width="50" height="50" layout="responsive" src="//nx-cdn.trgwl.com/Images/providers/PP/vs20fruitsw.png?v=202012041507"></amp-img>
+                                                        </div>
+                                                        <div class="winner-info" style="margin: 0px;">
+                                                            <div>d****y</div>
+                                                            <div>IDR <span class="winner-amount">7320.48</span></div>
+                                                            <div>Sweet Bonanza™</div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a href="https://mobilbydjakarta.id/">
+                                    <amp-img width="232" height="87" layout="responsive" src="/assets/arcade-link.webp"></amp-img>
+                                </a>
+                            </div>
+                            <div data-section="right">
+                                <div class="scrtabs-tab-container" style="visibility: visible;">
+                                    <div class="scrtabs-tab-scroll-arrow scrtabs-tab-scroll-arrow-left scrtabs-disable" style="display: block;">
+                                        <span class="glyphicon glyphicon-chevron-left"></span>
+                                    </div>
+                                    <div class="scrtabs-tabs-fixed-container">
+                                        <div class="scrtabs-tabs-movable-container">
+                                            <ul class="nav nav-tabs target-tabs" id="popular_providers" role="tablist">
+                                                <li role="presentation" class="active">
+                                                    <a href="#tab-PP" role="tab" data-toggle="tab">
+                                                        <amp-img width="120" height="45" layout="responsive" src="/assets/pg.webp"></amp-img>
+                                                    </a>
+                                                </li>
+                                                <li role="presentation">
+                                                    <a href="https://mobilbydjakarta.id/">
+                                                        <amp-img width="120" height="45" layout="responsive" src="/assets/jili.webp"></amp-img>
+                                                    </a>
+                                                </li>
+                                                <li role="presentation">
+                                                    <a href="https://mobilbydjakarta.id/">
+                                                        <amp-img width="120" height="45" layout="responsive" src="/assets/pragmatic-play.webp"></amp-img>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="scrtabs-tab-scroll-arrow scrtabs-tab-scroll-arrow-right" style="display: block;">
+                                        <span class="glyphicon glyphicon-chevron-right"></span>
+                                    </div>
+                                </div>
+                                <div class="tab-content">
+                                    <div role="tabpanel" class="tab-pane active" id="tab-PP">
+                                        <div class="animated-image">
+                                            <amp-img width="420" height="345" layout="responsive" src="/assets/game-code-7.webp"></amp-img>
+                                        </div>
+                                        <div class="popular-game-list">
+                                            <div class="game-item">
+                                                <div class="game-wrapper">
+                                                    <amp-img width="130" height="130" layout="responsive" src="/assets/tiger.png"></amp-img>
+                                                    <div class="link-container">
+                                                        <a class="free-play" href="https://mobilbydjakarta.id/">COBA</a>
+                                                        <a href="https://mobilbydjakarta.id/" class="play-now">MAIN</a>
+                                                    </div>
+                                                    <div class="game-name">Dragon Tiger™</div>
+                                                </div>
+                                            </div>
+                                            <div class="game-item">
+                                                <div class="game-wrapper">
+                                                    <amp-img width="130" height="130" layout="responsive" src="/assets/bronco.png"></amp-img>
+                                                    <div class="link-container">
+                                                        <a class="free-play" href="https://mobilbydjakarta.id/">COBA</a>
+                                                        <a href="https://mobilbydjakarta.id/" class="play-now">MAIN</a>
+                                                    </div>
+                                                    <div class="game-name">Bronco Spirit™</div>
+                                                </div>
+                                            </div>
+                                            <div class="game-item">
+                                                <div class="game-wrapper">
+                                                    <amp-img width="130" height="130" layout="responsive" src="/assets/aztec.png"></amp-img>
+
+                                                    <div class="link-container">
+                                                        <a class="free-play" href="https://mobilbydjakarta.id/">COBA</a>
+                                                        <a href="https://mobilbydjakarta.id/" class="play-now">MAIN</a>
+                                                    </div>
+                                                    <div class="game-name">Aztec Gems Deluxe™</div>
+                                                </div>
+                                            </div>
+                                            <div class="game-item">
+                                                <div class="game-wrapper">
+                                                    <amp-img width="130" height="130" layout="responsive" src="/assets/hot.png"></amp-img>
+
+                                                    <div class="link-container">
+                                                        <a class="free-play" href="https://mobilbydjakarta.id/">COBA</a>
+                                                        <a href="https://mobilbydjakarta.id/" class="play-now">MAIN</a>
+                                                    </div>
+                                                    <div class="game-name">Hot to Burn™</div>
+                                                </div>
+                                            </div>
+                                            <div class="game-item">
+                                                <div class="game-wrapper">
+                                                    <amp-img width="130" height="130" layout="responsive" src="/assets/triple.png"></amp-img>
+
+                                                    <div class="link-container">
+                                                        <a class="free-play" href="https://mobilbydjakarta.id/">COBA</a>
+                                                        <a href="https://mobilbydjakarta.id/" class="play-now">MAIN</a>
+                                                    </div>
+                                                    <div class="game-name">Triple Joker™</div>
+                                                </div>
+                                            </div>
+                                            <div class="game-item">
+                                                <div class="game-wrapper">
+                                                    <amp-img width="130" height="130" layout="responsive"
+                                                        src="/assets/gold.png">
+                                                    </amp-img>
+                                                    <div class="link-container">
+                                                        <a class="free-play" href="https://mobilbydjakarta.id/">COBA</a>
+                                                        <a href="https://mobilbydjakarta.id/" class="play-now">MAIN</a>
+                                                    </div>
+                                                    <div class="game-name">5 Lions Gold™</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <footer class="site-footer" style="--image-src: url(//nx-cdn.trgwl.com/Images/nexus-alpha/dark-gold/desktop/layout/footer-background.jpg?v=202012041507);">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="site-description" style="text-align: justify; font-size: 14px">
+                        <p class="breadcrumbs-title"><a  class="breadcrumbs-link">Home</a> » <a class="breadcrumbs-link">Slot Online</a> » Slot777</p>
+<h1>KAGE303 : Situs Slot Gacor Hari Ini Toto Online Terbaru Gampang Scatter Maxwin</h1>
+
+<p style="text-align:justify;">
+<a href="https://mobilbydjakarta.id/" style="font-weight:bold;color:#00e600;">KAGE303</a> menjadi salah satu situs slot gacor hari ini yang banyak dicari oleh pemain karena menghadirkan informasi slot online terbaru, update RTP, serta berbagai permainan dari provider populer dalam satu halaman. Melalui {$t} {$p}, pengguna dapat menemukan referensi mengenai game yang sedang ramai dimainkan, slot dengan peluang scatter yang sering dicari, hingga rekomendasi permainan yang memiliki potensi maxwin berdasarkan pembaruan terbaru.
+</p>
+
+<p style="text-align:justify;">
+KAGE303 menghadirkan berbagai pilihan permainan dari provider ternama seperti Pragmatic Play, PG Soft, Habanero, Microgaming, Playtech, Spadegaming, Joker Gaming, CQ9 Gaming, dan Live22. Setiap hari tersedia pembaruan mengenai <a href="https://mobilbydjakarta.id/" style="font-weight:bold;color:#00e600;">slot</a> terbaru, RTP hari ini, game favorit pemain, serta berbagai kategori permainan yang memudahkan pengguna mengikuti perkembangan dunia slot online dan toto online tanpa harus berpindah ke banyak website.
+</p>
+
+<p style="text-align:justify;">
+Sebagai situs <a href="https://mobilbydjakarta.id/" style="font-weight:bold;color:#00e600;">slot gacor</a> selain tampilan yang ringan dan responsif, KAGE303 juga memudahkan pengguna menemukan informasi mengenai login KAGE303, daftar KAGE303, link alternatif terbaru, hingga koleksi Slot777 yang terus diperbarui. Seluruh halaman dapat diakses dengan nyaman melalui Android, iPhone, tablet, maupun desktop sehingga proses menjelajahi berbagai kategori permainan terasa lebih cepat dan efisien.
+</p>
+
+<p style="text-align:justify;">
+Dengan pembaruan konten yang dilakukan setiap hari, KAGE303 terus berkembang sebagai referensi <a href="https://mobilbydjakarta.id/" style="font-weight:bold;color:#00e600;">slot online</a> terbaru bagi pengguna yang mencari situs slot gacor hari ini, informasi RTP, permainan dengan peluang scatter, hingga berbagai rekomendasi game yang sedang populer. Kombinasi koleksi game yang lengkap, akses yang stabil, serta navigasi yang sederhana menjadikan KAGE303 sebagai salah satu pilihan yang banyak dicari oleh pecinta slot online dan toto online di Indonesia.
+</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <footer class="site-footer-body">
+        <div class="container">
+            <div class="row align-items-end">
+                <div class="col-md-6 col-12">
+                    <div class="copyrights">
+                        <p>
+                            <strong>COPYRIGHT 2026 - KAGE303 - SEO 0H BEG1TU YA.</strong><br>
+                            Situs Dewa Slot Gacor Hari Ini Proivder lengkap Pragmatic Play, Slot88, PG Soft, Microgaming, Nolimit City, dan lainnya.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-12 custom-column">
+                    <div class="icon-list">
+                        <div class="icon-item">
+                            <amp-img src="/assets/pagcor.webp" layout="responsive" width="115" height="112"></amp-img>
+                        </div>
+                        <div class="icon-item">
+                            <amp-img src="/assets/responsible-gaming.webp" layout="responsive" width="324" height="111"></amp-img>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-12">
+                    <p>Ikuti Kami</p>
+                    <div class="icon-list">
+                        <div class="icon-item">
+                            <a href="" target="_blank">
+                                <amp-img src="/assets/icon-footer-instagram.webp" layout="responsive" width="60" height="60"></amp-img>
+                            </a>
+                        </div>
+                        <div class="icon-item">
+                            <a href="" target="_blank">
+                                <amp-img src="/assets/icon-footer-facebook.webp" layout="responsive" width="60" height="60"></amp-img>
+                            </a>
+                        </div>
+                        <div class="icon-item">
+                            <a href="" target="_blank">
+                                <amp-img src="/assets/icon-footer-twitter.webp" layout="responsive" width="60" height="60"></amp-img>
+                            </a>
+                        </div>
+                        <div class="icon-item">
+                            <a href="" target="_blank">
+                                <amp-img src="/assets/icon-footer-pinterest.webp" layout="responsive" width="60" height="60"></amp-img>
+                            </a>
+                        </div>
+                        <div class="icon-item">
+                            <a href="" target="_blank">
+                                <amp-img src="/assets/icon-footer-threads.webp" layout="responsive" width="60" height="60"></amp-img>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="fixed-footer">
+        <a href="https://mobilbydjakarta.id/" data-active="true">
+            <div>
+                <amp-img width="25" height="25" src="/assets/icon-kage303.ico"></amp-img>
+            </div>
+            Beranda
+        </a>
+        <a href="https://t.ly/tembung" data-active="false">
+            <div>
+                <amp-img width="25" height="25" src="/assets/icon-kage303.ico"></amp-img>
+            </div>
+            Daftar
+        </a>
+        <a href="https://t.ly/tambun" data-active="false">
+            <div>
+                <amp-img width="25" height="25" src="/assets/icon-kage303.ico"></amp-img>
+            </div>
+            Promosi
+        </a>
+        <a href="https://mobilbydjakarta.id/" target="_blank"  class="js_live_chat_link" data-url="https://t.ly/borgol">
+            <div>
+                <amp-img width="25" height="25" src="/assets/icon-kage303.ico"></amp-img>
+            </div>
+            Live Chat
+        </a>
+    </div>
+</body>
+</html>
